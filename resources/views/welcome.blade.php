@@ -158,7 +158,7 @@
 
     </div>
 
-    <!-- Home slide  -->
+    <!-- Dashboard slide  -->
     <div class="hometestimonial">
       <div class="container">
 
@@ -224,7 +224,7 @@
 
       </div>
     </div>
-    <!-- Home slide end -->
+    <!-- Dashboard slide end -->
     
 
   </div>
